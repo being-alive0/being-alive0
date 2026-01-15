@@ -1,16 +1,14 @@
-## Hi there 👋
+# ⚠️ Account Moved
 
-<!--
-**being-alive0/being-alive0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account is no longer active.
 
-Here are some ideas to get you started:
+👉 **My official GitHub profile is now:**  
+🔗 https://github.com/bhosaleatharv89
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please visit the above link for:
+- Active repositories
+- Current projects
+- Updated work
+
+Thank you.
+— Atharv Bhosale
